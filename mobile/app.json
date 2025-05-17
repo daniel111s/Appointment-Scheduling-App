@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Meetly",
+    "slug": "Meetly",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/screens/assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./src/screens/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/screens/assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./src/screens/assets/favicon.png"
+    }
+  }
+}
