@@ -4,8 +4,8 @@ Meetly is an  **web&mobile** application that lets you arrange any meeting—pro
 ## Key features
 - **Personal booking page** – create once, share a single link forever
 - **One‑click reservations** – invitees choose a slot, no account needed
-- **Share via QR code **– guests can simply scan the code generated in‑app to open your calendar (the classic link   still works too)
-- **Automatic reminders **– confirmations and reminder emails go out automatically
+- **Share via QR code ** – guests can simply scan the code generated in‑app to open your calendar (the classic link   still works too)
+- **Automatic reminders ** – confirmations and reminder emails go out automatically
 - **Timezone detection** – everyone sees available times in their own zone
 - **Calendar sync** – Google & Outlook two‑way integration
 - **Fully responsive & native** – identical workflow in the browser and in the React Native app (iOS / Android)
